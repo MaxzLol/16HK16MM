@@ -1,8 +1,10 @@
 # 16HK16MM
-El siguiente repositorio contiene:
+16 Haikus a 16 milímetros es un proyecto transmedia que investiga la transliteración de la letra escrita al cuerpo. 
+## CONTENIDO
 - Un archivo RTF con los textos (haikus) sin formato.
 - Un PDF maestro con la publicación.
-- Archivos de QuickTime (.mov): 
+- Archivos de QuickTime (.mov):
+  
   1.- Toma maestra de la videodanza.
   2.- Toma en trozos de la videodanza (para videomapping).
   3.- Tomas de registro del proyecto para portafolio y difusión.
