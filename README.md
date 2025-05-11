@@ -6,7 +6,6 @@ Dieciseis haikus a dieciseis milímetros es una obra de literatura expandida que
 - Un ePub maestro con la publicación.
 - Archivos de QuickTime (.mov) en trozos de la videodanza.
 - GIFs segmentados por haiku.
-- Stills (fijos) de todos los performances. 
 ## Notas
 Es importante utilizar una plataforma que soporte archivos ePub (3) para la visualización correcta del documento en movimiento.
 ## LICENCIA
