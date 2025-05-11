@@ -2,7 +2,7 @@
 Dieciseis haikus a dieciseis milímetros es una obra de literatura expandida que busca, a partir del aparáto cinematógrafo, explorar las posibilidades de transliteración de la letra al cuerpo -escénico-.
 Ésta misma fue hecha con una cámara Bolex así como cinta de dieciseis milímetros reversible blanco y negro (revelada a mano por el autor).
 ## Contenido
-- Un archivo RTF con los textos (haikus) sin formato.
+- Un archivo RTF con los textos (haikus).
 - Un ePub maestro con la publicación.
 - Archivos de QuickTime (.mov) en trozos de la videodanza.
 - GIFs segmentados por haiku.
