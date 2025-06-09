@@ -1,5 +1,6 @@
 # 16HK16MM
 ![LOGOLOOP](https://github.com/user-attachments/assets/6ebaa4e5-a9b3-42e3-98b8-f0d38cc4d6d6)
+
 Dieciseis haikus a dieciseis milímetros es una obra de literatura expandida que busca, a partir del aparato cinematógrafo, explorar las posibilidades de transliteración de la letra al cuerpo -escénico-.
 Ésta misma fue hecha con una cámara Bolex así usando soporte de dieciseis milímetros reversible blanco y negro (revelada a mano por lx autorx).
 ## Contenido
